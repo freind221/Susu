@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>621108622976-17qdfg74j1qsvv89l716o34g4e8fm72r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.621108622976-17qdfg74j1qsvv89l716o34g4e8fm72r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>621108622976-89pa823ncts52g9hsvupf34ov989e0up.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB5vbtPsWW-bPFoNAdSPZD2wvlcaFAZDUE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>621108622976</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.susuplana8405.susu</string>
+	<key>PROJECT_ID</key>
+	<string>susu-80409</string>
+	<key>STORAGE_BUCKET</key>
+	<string>susu-80409.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:621108622976:ios:c3a1efd0eea2ddef545865</string>
+</dict>
+</plist>
